@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+html {
+   font-family: 'Figtree', Courier, monospace;
+}
+body {
+    background-color: rgb(249, 245, 7);
+    color: rgb(0, 0, 0);
+}
+.b{
+    width: 400px;
+    height: 550px;
+    margin-left: 1000px;
+    margin-top: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 20px 15px 20px rgb(14, 14, 14);
+}
+.hxh{
+    width: 350px;
+    margin-top: 10px;
+    height: 200px;
+    margin-left: 25px;
+}
+.bot{
+    margin-left: 30px;
+    font-size: 20px;
+    padding: 5px;
+    background-color: rgb(242, 187, 5);
+    margin-right: 285px;
+    border-radius: 2px;
+    margin-top: 10px;
+    border: 1px solid rgb(242, 187, 5);
+    box-shadow: -5px 5px 10px rgb(31, 30, 30);
+}
+.h{
+    margin-left: 30px;
+
+}
+.pr{
+    margin-left: 30px;
+    font-weight: lighter;
+    color: rgb(158, 163, 166);
+
+}
+hr{
+    border: 5px solid;
+    box-shadow: 0px -5px 5px rgb(67, 63, 63);
+}
+
+.ajabri{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: 0.5px solid black;
+    box-shadow: -2px 2px 7px black;
+    display: inline;
+}
+#p
+{
+    position: relative;
+    top: -47px;
+    left: 85px;
+
+}
+h3{
+    margin-left: 30px;
+    font-weight: lighter;
+}
